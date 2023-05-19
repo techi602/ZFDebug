@@ -13,7 +13,7 @@
         "library/"
     ],
     "require": {
-        "zendframework/zendframework1": "1.*"
+        "zendframework/zendframework1": "*"
     },
     "authors": [
         {
